@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prakaiploy Siritunyaluk (@Palowx)
 - 🌱 I’m a 3rd year Computer Science student at Thammasat University!
-- 👀 I’m currently looking for an internship from (June-December 2024)
+- 👀 I’m currently looking for an internship starting from June-December 2024, Front-end or Full-stack Position.
 - 📫 Email: p.prakaiploy@gmail.com
 
 <!---
