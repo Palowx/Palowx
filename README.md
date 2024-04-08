@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Palowx
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on -
+- 👋 Hi, I’m Prakaiploy Siritunyaluk (@Palowx)
+- 🌱 I’m a 3rd year Computer Science student at Thammasat University!
+- 👀 I’m currently looking for an internship from (June-December 2024)
 - 📫 Email: p.prakaiploy@gmail.com
 
 <!---
